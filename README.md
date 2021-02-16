@@ -17,3 +17,6 @@
   <br>
   </span>
 </div>
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvlpr1992&theme=algolia&show_icons=true)
+</div>
