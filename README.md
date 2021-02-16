@@ -5,16 +5,16 @@
 
 <div>
   <span style="with='50%'">
-    
+    hi
   </span>
   <span style="with='50%'">
     <h2>🤪Hobbies</h2>
   <br>
-    ##🎮Game
+    🎮Game
     <br>
-    ##🚙Driving
+    🚙Driving
   <br>
-    ##📼Movie
+    📼Movie
   <br>
   </span>
 </div>
