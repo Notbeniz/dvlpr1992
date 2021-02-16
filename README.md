@@ -1,13 +1,17 @@
-
+<style>
+  span{
+    width = "50%";
+  }
+</style>
 <div align="center">
   <h1> Zeynab S Alavi 👩🏽‍💻 </h1>
 </div>
 
 <div>
-  <span style="with='50%'">
+  <span>
     hi
   </span>
-  <span style="with='50%'">
+  <span >
     <h2>🤪Hobbies</h2>
   <br>
     🎮Game
