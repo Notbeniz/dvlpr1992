@@ -9,8 +9,11 @@
   </span>
   <span>
     <h2🤪>Hobbies</h2>
-    ## 🎮Game
-    ## 🚙Driving
-    ## 📼Movie
+    ##🎮Game
+    <br>
+    ##🚙Driving
+  <br>
+    ##📼Movie
+  <br>
   </span>
 </div>
