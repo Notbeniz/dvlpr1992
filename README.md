@@ -22,4 +22,4 @@
   </span>
 </div>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=algolia&langs_count=12" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=algolia&langs_count=12" />
