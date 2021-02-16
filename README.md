@@ -4,11 +4,12 @@
 </div>
 
 <div>
-  <span>
+  <span style="with='50%'">
     
   </span>
-  <span>
-    <h2🤪>Hobbies</h2>
+  <span style="with='50%'">
+    <h2>🤪Hobbies</h2>
+  <br>
     ##🎮Game
     <br>
     ##🚙Driving
