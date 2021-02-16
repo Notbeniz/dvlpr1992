@@ -18,5 +18,6 @@
   </span>
 </div>
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvlpr1992&theme=algolia&show_icons=true)
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=material-palenight&langs_count=12" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dvlpr1992&show_icons=true&include_all_commits=true&theme=material-palenight" />
 </div>
