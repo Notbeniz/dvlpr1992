@@ -3,7 +3,8 @@
 </div>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dvlpr1992&show_icons=true&include_all_commits=true&theme=algolia" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=algolia&langs_count=12" />
+  
 </div>
 
 <div>
@@ -21,5 +22,5 @@
   <br>
   </span>
 </div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dvlpr1992&show_icons=true&include_all_commits=true&theme=algolia" />
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=algolia&langs_count=12" />
