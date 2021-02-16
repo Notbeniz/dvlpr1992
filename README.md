@@ -4,6 +4,13 @@
 </div>
 
 <div>
-  <span>Left</span>
-    <span>right</span>
+  <span>
+    
+  </span>
+  <span>
+    <h2🤪>Hobbies</h2>
+    ## 🎮Game
+    ## 🚙Driving
+    ## 📼Movie
+  </span>
 </div>
