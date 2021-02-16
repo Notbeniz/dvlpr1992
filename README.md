@@ -18,6 +18,6 @@
   </span>
 </div>
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dvlpr1992&show_icons=true&include_all_commits=true&theme=material-palenight" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&layout=compact&theme=algolia&langs_count=12" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dvlpr1992&show_icons=true&include_all_commits=true&theme=algolia" />
 </div>
