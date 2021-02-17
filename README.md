@@ -9,13 +9,13 @@
 </div>
 
 
-<div>
+<span>
   <h2>🤪Hobbies</h2>
     🎮Gaming
     <br>
     🚙Driving
   <br>
     📼Movies
-</div>
+</span>
 test
 
