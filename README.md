@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Zeynab S Alavi 👩💻</h1>
+  <h1>Zeynab S Alavi 👩🏽‍💻</h1>
 </div>
 
 <div>
