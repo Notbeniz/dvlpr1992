@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="color : red">Zeynab S Alavi 👩💻</p>
+  <h1>Zeynab S Alavi 👩💻</h1>
 </div>
 
 <div>
