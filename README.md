@@ -8,11 +8,8 @@
 [![dvlpr1992' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&langs_count=5&theme=algolia&exclude_repo=SocketCpp,dvlpr1992.github.io,DeveloperSite)](https://github.com/dvlpr1992/dvlpr1992)
 </div>
 
+
 <div>
-  <div>
-    bio
-  </div>
-  <div >
     🤪Hobbies
   <br>
     🎮Gaming
@@ -21,7 +18,6 @@
   <br>
     📼Movies
   <br>
-  </div>
 </div>
 
 
