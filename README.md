@@ -10,7 +10,7 @@
 
 
 <div>
-  <h2> 🤪Hobbies </h2>
+  ** 🤪Hobbies **
     🎮Gaming
     <br>
     🚙Driving
