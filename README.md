@@ -10,7 +10,7 @@
 
 
 <div>
-  <bold>🤪Hobbies</bold>
+  __🤪Hobbies__
   <br>
     🎮Gaming
     <br>
