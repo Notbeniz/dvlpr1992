@@ -1,6 +1,5 @@
 <div align="center">
-<!--   <h1> Zeynab S Alavi 👩🏽‍💻 </h1> -->
-  <h1 style="color: aqua" > Zeynab S Alavi 👩🏽‍💻 </h1>
+  <p>Zeynab S Alavi 👩💻</p>
 </div>
 
 <div>
