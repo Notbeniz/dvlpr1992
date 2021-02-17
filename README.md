@@ -9,10 +9,10 @@
 </div>
 
 <div>
-  <span>
-    hi
-  </span>
-  <span >
+  <div>
+    bio
+  </div>
+  <div >
     🤪Hobbies
   <br>
     🎮Gaming
@@ -21,7 +21,7 @@
   <br>
     📼Movies
   <br>
-  </span>
+  </div>
 </div>
 
 
