@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Zeynab S Alavi 👩🏽‍💻</h1>
 </div>
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/dvlpr1992">
   <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
@@ -15,6 +15,8 @@
   <img align="left" alt="Sina Dalvand's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 </div>
+<br>
+
 <div>
   
 [![dvlpr1992's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvlpr1992&show_icons=true&include_all_commits=true&theme=algolia&count_private=true&line_height=40)](https://github.com/dvlpr1992/dvlpr1992)
