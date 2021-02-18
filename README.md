@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Zeynab S Alavi 👩🏽‍💻</h1>
 </div>
-<div align="center">
+<div align="center" height="100px">
 <a href="https://www.linkedin.com/in/dvlpr1992">
   <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
