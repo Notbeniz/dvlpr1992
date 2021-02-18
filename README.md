@@ -9,11 +9,11 @@
 </div>
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![selenium](https://img.shields.io/badge/-selenium-563D7C?style=flat-square&logo=selenium)
+![selenium](https://img.shields.io/badge/-selenium-000?style=flat-square&logo=selenium)
 ![php](https://img.shields.io/badge/-php-563D7C?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-563D7C?style=flat-square&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![vue](https://img.shields.io/badge/-vue-563D7C?style=flat-square&logo=vue)
+![vuejs](https://img.shields.io/badge/-vusjs-563D7C?style=flat-square&logo=vuejs)
 ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
