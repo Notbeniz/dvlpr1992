@@ -13,7 +13,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![vuejs](https://img.shields.io/badge/-vusjs-000?style=flat-square&logo=vue)
+![vuejs](https://img.shields.io/badge/-Vuejs-000?style=flat-square&logo=vuejs)
 ![HTML](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=%231572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=Bootstrap)
