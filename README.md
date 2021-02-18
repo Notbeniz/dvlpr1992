@@ -38,13 +38,4 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
 ![vuejs](https://img.shields.io/badge/-Vuejs-000?style=flat-square&logo=vuejs)
 
-<span>
-  <h2>🤪Hobbies</h2>
-    🎮Gaming
-    <br>
-    🚙Driving
-  <br>
-    📼Movies
-</span>
-test
 
