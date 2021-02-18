@@ -10,11 +10,11 @@
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Typescript](https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Laravel](https://img.shields.io/badge/-laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![PHP](https://img.shields.io/badge/-PHP-s24d390?style=flat-square&logo=PHP&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-S24D390?style=flat-square&logo=PHP&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
