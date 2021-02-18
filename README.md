@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/dvlpr1992">
-  <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/instagram-xl.png" />
+  <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/linkedin-6-xl.png" />
 </a>
 <a href="https://instagram.com/dvlpr1992">
   <img align="left" alt="Sina Dalvand's Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/instagram-xl.png" />
