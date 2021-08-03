@@ -8,9 +8,6 @@
   <a href="https://instagram.com/dvlpr1992">
     <img align="left" alt="dvlpr1992" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/instagram-xl.png" />
   </a>
-   <a href="https://discord.gg/NtkuT7GXGw">
-    <img align="left" alt="dvlpr1992" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/discord-2-xl.png" />
-  </a>
    <a href="mailto:dvlpr1992@gmail.com">
     <img align="left" alt="dvlpr1992" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/email-12-xl.png" />
   </a>
